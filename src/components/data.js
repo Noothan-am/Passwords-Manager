@@ -1,20 +1,20 @@
 const passwords = [
     {
-      websitename: 'Bmsit',
+      websitename: 'collage.com',
       username: 'Noothan am',
-      password: 'hello@123',
+      password: 'coll@123',
       catagory: 'collage'
     },
     {
-      websitename: 'Adhar',
+      websitename: 'drivinglicence.com',
       username: 'Sahil',
       password: 'adha@123',
       catagory: 'government'
     },
     {
-      websitename: 'Kcet',
+      websitename: 'cowin',
       username: 'Nikhil',
-      password: 'cet@123',
+      password: 'cowin@123',
       catagory: 'collage'
     },
     {
@@ -30,7 +30,7 @@ const passwords = [
       catagory: 'social media'
     },
     {
-      websitename: 'SSp',
+      websitename: 'vaccination.com',
       username: 'Shariq',
       password: 'SSp@123',
       catagory: 'government'
@@ -52,6 +52,12 @@ const passwords = [
       username: 'Ramesh',
       password: 'ram@123',
       catagory: 'website'
+    },
+     {
+      websitename: 'laptop',
+      username: 'harry',
+      password: 'harry@123',
+      catagory: 'personal'
     }
   ]
 
